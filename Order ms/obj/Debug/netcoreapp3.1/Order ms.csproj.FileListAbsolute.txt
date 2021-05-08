@@ -1,0 +1,34 @@
+C:\Users\tofu\Source\Repos\Order ms\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\tofu\Source\Repos\Order ms\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\tofu\Source\Repos\Order ms\bin\Debug\netcoreapp3.1\Order ms.exe
+C:\Users\tofu\Source\Repos\Order ms\bin\Debug\netcoreapp3.1\Order ms.deps.json
+C:\Users\tofu\Source\Repos\Order ms\bin\Debug\netcoreapp3.1\Order ms.runtimeconfig.json
+C:\Users\tofu\Source\Repos\Order ms\bin\Debug\netcoreapp3.1\Order ms.runtimeconfig.dev.json
+C:\Users\tofu\Source\Repos\Order ms\bin\Debug\netcoreapp3.1\Order ms.dll
+C:\Users\tofu\Source\Repos\Order ms\bin\Debug\netcoreapp3.1\Order ms.pdb
+C:\Users\tofu\Source\Repos\Order ms\bin\Debug\netcoreapp3.1\Automatonymous.dll
+C:\Users\tofu\Source\Repos\Order ms\bin\Debug\netcoreapp3.1\GreenPipes.dll
+C:\Users\tofu\Source\Repos\Order ms\bin\Debug\netcoreapp3.1\MassTransit.dll
+C:\Users\tofu\Source\Repos\Order ms\bin\Debug\netcoreapp3.1\MassTransit.AspNetCoreIntegration.dll
+C:\Users\tofu\Source\Repos\Order ms\bin\Debug\netcoreapp3.1\MassTransit.ExtensionsDependencyInjectionIntegration.dll
+C:\Users\tofu\Source\Repos\Order ms\bin\Debug\netcoreapp3.1\MassTransit.RabbitMqTransport.dll
+C:\Users\tofu\Source\Repos\Order ms\bin\Debug\netcoreapp3.1\Microsoft.Extensions.PlatformAbstractions.dll
+C:\Users\tofu\Source\Repos\Order ms\bin\Debug\netcoreapp3.1\NewId.dll
+C:\Users\tofu\Source\Repos\Order ms\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\tofu\Source\Repos\Order ms\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\tofu\Source\Repos\Order ms\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+C:\Users\tofu\Source\Repos\Order ms\bin\Debug\netcoreapp3.1\RabbitMq_Ifat.dll
+C:\Users\tofu\Source\Repos\Order ms\bin\Debug\netcoreapp3.1\rabbitMq message ifat.dll
+C:\Users\tofu\Source\Repos\Order ms\obj\Debug\netcoreapp3.1\Order ms.csprojAssemblyReference.cache
+C:\Users\tofu\Source\Repos\Order ms\obj\Debug\netcoreapp3.1\Order ms.AssemblyInfoInputs.cache
+C:\Users\tofu\Source\Repos\Order ms\obj\Debug\netcoreapp3.1\Order ms.AssemblyInfo.cs
+C:\Users\tofu\Source\Repos\Order ms\obj\Debug\netcoreapp3.1\Order ms.csproj.CoreCompileInputs.cache
+C:\Users\tofu\Source\Repos\Order ms\obj\Debug\netcoreapp3.1\Order ms.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\tofu\Source\Repos\Order ms\obj\Debug\netcoreapp3.1\staticwebassets\Order ms.StaticWebAssets.Manifest.cache
+C:\Users\tofu\Source\Repos\Order ms\obj\Debug\netcoreapp3.1\staticwebassets\Order ms.StaticWebAssets.xml
+C:\Users\tofu\Source\Repos\Order ms\obj\Debug\netcoreapp3.1\scopedcss\bundle\Order ms.styles.css
+C:\Users\tofu\Source\Repos\Order ms\obj\Debug\netcoreapp3.1\Order ms.RazorTargetAssemblyInfo.cache
+C:\Users\tofu\Source\Repos\Order ms\obj\Debug\netcoreapp3.1\Order ms.csproj.CopyComplete
+C:\Users\tofu\Source\Repos\Order ms\obj\Debug\netcoreapp3.1\Order ms.dll
+C:\Users\tofu\Source\Repos\Order ms\obj\Debug\netcoreapp3.1\Order ms.pdb
+C:\Users\tofu\Source\Repos\Order ms\obj\Debug\netcoreapp3.1\Order ms.genruntimeconfig.cache

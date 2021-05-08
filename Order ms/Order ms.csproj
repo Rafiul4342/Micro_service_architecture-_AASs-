@@ -1,0 +1,25 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>Order_ms</RootNamespace>
+  </PropertyGroup>
+
+
+  <ItemGroup>
+    <Folder Include="Controllers\" />
+  </ItemGroup>
+
+
+  <ItemGroup>
+    <PackageReference Include="MassTransit.AspNetCore" Version="6.2.5" />
+    <PackageReference Include="MassTransit.RabbitMQ" Version="6.2.5" />
+  </ItemGroup>
+  
+  <ItemGroup>      
+    <PackageReference Include="RabbitMqIfat" Version="1.0.0" />
+    <PackageReference Include="rabbitMqmessageifat" Version="1.0.0" />
+  </ItemGroup>
+
+
+</Project>
