@@ -1,0 +1,9 @@
+C:\Users\tofu\Source\Repos\RabbitMq_Ifat\bin\Debug\netcoreapp3.1\RabbitMq_Ifat.deps.json
+C:\Users\tofu\Source\Repos\RabbitMq_Ifat\bin\Debug\netcoreapp3.1\RabbitMq_Ifat.dll
+C:\Users\tofu\Source\Repos\RabbitMq_Ifat\bin\Debug\netcoreapp3.1\RabbitMq_Ifat.pdb
+C:\Users\tofu\Source\Repos\RabbitMq_Ifat\obj\Debug\netcoreapp3.1\RabbitMq_Ifat.csprojAssemblyReference.cache
+C:\Users\tofu\Source\Repos\RabbitMq_Ifat\obj\Debug\netcoreapp3.1\RabbitMq_Ifat.AssemblyInfoInputs.cache
+C:\Users\tofu\Source\Repos\RabbitMq_Ifat\obj\Debug\netcoreapp3.1\RabbitMq_Ifat.AssemblyInfo.cs
+C:\Users\tofu\Source\Repos\RabbitMq_Ifat\obj\Debug\netcoreapp3.1\RabbitMq_Ifat.csproj.CoreCompileInputs.cache
+C:\Users\tofu\Source\Repos\RabbitMq_Ifat\obj\Debug\netcoreapp3.1\RabbitMq_Ifat.dll
+C:\Users\tofu\Source\Repos\RabbitMq_Ifat\obj\Debug\netcoreapp3.1\RabbitMq_Ifat.pdb
