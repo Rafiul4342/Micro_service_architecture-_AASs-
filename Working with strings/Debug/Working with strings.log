@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\tofu\Source\Repos\Working with strings\main.cpp(9,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\tofu\Source\Repos\Working with strings\main.cpp(19,20): warning C4018: '<': signed/unsigned mismatch
+  Working with strings.vcxproj -> C:\Users\tofu\Source\Repos\Working with strings\Debug\Working with strings.exe

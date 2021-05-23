@@ -1,0 +1,2 @@
+C:\Users\tofu\Source\Repos\absolute\Debug\absolute.exe
+C:\Users\tofu\Source\Repos\absolute\Debug\absolute.pdb

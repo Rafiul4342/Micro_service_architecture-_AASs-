@@ -1,0 +1,2 @@
+C:\Users\tofu\Source\Repos\working_with_vectors_1\Debug\working_with_vectors_1.exe
+C:\Users\tofu\Source\Repos\working_with_vectors_1\Debug\working_with_vectors_1.pdb

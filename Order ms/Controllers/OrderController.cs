@@ -1,6 +1,7 @@
 ﻿using MassTransit;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using Order_ms.Infra;
 using Order_ms.View_model;
 using RabbitMq_Ifat;
 using rabbitMq_message_ifat;
@@ -16,16 +17,24 @@ namespace Order_ms.Controllers
     public class OrderController : ControllerBase
     {
         private readonly ISendEndpointProvider _sendEndpointProvider;
+        private readonly IOrderDataAccess _orderDataAccess;
+
 
         public OrderController(
-          ISendEndpointProvider sendEndpointProvider)
+          ISendEndpointProvider sendEndpointProvider, IOrderDataAccess orderDataAccess)
         {
             _sendEndpointProvider = sendEndpointProvider;
+            _orderDataAccess = orderDataAccess;
         }
         [HttpPost]
         [Route("createorder")]
         public async Task<IActionResult> CreateOrder([FromBody] OrderModel orderModel)
         {
+            // Before sending data to microservices
+            //the data is saved in the database
+
+            _orderDataAccess.SaveOrder(orderModel);
+
             var endPoint = await _sendEndpointProvider.
                 GetSendEndpoint(new Uri("queue:" + BusConstants.OrderQueue));
 
@@ -37,6 +46,21 @@ namespace Order_ms.Controllers
             });
 
             return Ok("Success");
+        }
+
+        [HttpGet]
+        [Route("getall")]
+        public async Task<IActionResult> GetAll()
+        {
+            try
+            {
+                return Ok(_orderDataAccess.GetAllOrder());
+            }
+            catch(Exception ex)
+            {
+                return null;
+            }
+           
         }
     }
 }

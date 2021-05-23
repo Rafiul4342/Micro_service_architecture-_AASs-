@@ -1,0 +1,2 @@
+C:\Users\tofu\Source\Repos\Arrays_inside_a_class\Debug\Arrays_inside_a_class.exe
+C:\Users\tofu\Source\Repos\Arrays_inside_a_class\Debug\Arrays_inside_a_class.pdb

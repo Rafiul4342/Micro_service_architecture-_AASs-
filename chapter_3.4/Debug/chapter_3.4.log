@@ -1,0 +1,3 @@
+﻿  chapter_3.4.cpp
+C:\Users\tofu\Source\Repos\chapter_3.4\chapter_3.4.cpp(59,63): warning C4305: 'initializing': truncation from 'double' to 'float'
+  chapter_3.4.vcxproj -> C:\Users\tofu\Source\Repos\chapter_3.4\Debug\chapter_3.4.exe

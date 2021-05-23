@@ -1,0 +1,4 @@
+C:\Users\tofu\Source\Repos\rabbit mq message\obj\Debug\netcoreapp3.1\rabbit mq message.csprojAssemblyReference.cache
+C:\Users\tofu\Source\Repos\rabbit mq message\obj\Debug\netcoreapp3.1\rabbit mq message.AssemblyInfoInputs.cache
+C:\Users\tofu\Source\Repos\rabbit mq message\obj\Debug\netcoreapp3.1\rabbit mq message.AssemblyInfo.cs
+C:\Users\tofu\Source\Repos\rabbit mq message\obj\Debug\netcoreapp3.1\rabbit mq message.csproj.CoreCompileInputs.cache

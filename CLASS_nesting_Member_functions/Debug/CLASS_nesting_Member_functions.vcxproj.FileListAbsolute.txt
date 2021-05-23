@@ -1,0 +1,2 @@
+C:\Users\tofu\Source\Repos\CLASS_nesting_Member_functions\Debug\CLASS_nesting_Member_functions.exe
+C:\Users\tofu\Source\Repos\CLASS_nesting_Member_functions\Debug\CLASS_nesting_Member_functions.pdb

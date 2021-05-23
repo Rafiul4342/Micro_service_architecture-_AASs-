@@ -1,0 +1,2 @@
+C:\Users\tofu\Source\Repos\Object_oriented_programing\Debug\Object_oriented_programing.exe
+C:\Users\tofu\Source\Repos\Object_oriented_programing\Debug\Object_oriented_programing.pdb

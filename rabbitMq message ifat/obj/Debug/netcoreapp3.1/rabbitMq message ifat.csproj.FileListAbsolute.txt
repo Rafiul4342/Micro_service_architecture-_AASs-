@@ -1,0 +1,8 @@
+C:\Users\tofu\Source\Repos\rabbitMq message ifat\bin\Debug\netcoreapp3.1\rabbitMq message ifat.deps.json
+C:\Users\tofu\Source\Repos\rabbitMq message ifat\bin\Debug\netcoreapp3.1\rabbitMq message ifat.dll
+C:\Users\tofu\Source\Repos\rabbitMq message ifat\bin\Debug\netcoreapp3.1\rabbitMq message ifat.pdb
+C:\Users\tofu\Source\Repos\rabbitMq message ifat\obj\Debug\netcoreapp3.1\rabbitMq message ifat.AssemblyInfoInputs.cache
+C:\Users\tofu\Source\Repos\rabbitMq message ifat\obj\Debug\netcoreapp3.1\rabbitMq message ifat.AssemblyInfo.cs
+C:\Users\tofu\Source\Repos\rabbitMq message ifat\obj\Debug\netcoreapp3.1\rabbitMq message ifat.csproj.CoreCompileInputs.cache
+C:\Users\tofu\Source\Repos\rabbitMq message ifat\obj\Debug\netcoreapp3.1\rabbitMq message ifat.dll
+C:\Users\tofu\Source\Repos\rabbitMq message ifat\obj\Debug\netcoreapp3.1\rabbitMq message ifat.pdb

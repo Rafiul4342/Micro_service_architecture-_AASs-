@@ -1,0 +1,9 @@
+C:\Users\tofu\Source\Repos\rabbitmq_1\bin\Debug\netcoreapp3.1\rabbitmq_1.deps.json
+C:\Users\tofu\Source\Repos\rabbitmq_1\bin\Debug\netcoreapp3.1\rabbitmq_1.dll
+C:\Users\tofu\Source\Repos\rabbitmq_1\bin\Debug\netcoreapp3.1\rabbitmq_1.pdb
+C:\Users\tofu\Source\Repos\rabbitmq_1\obj\Debug\netcoreapp3.1\rabbitmq_1.csprojAssemblyReference.cache
+C:\Users\tofu\Source\Repos\rabbitmq_1\obj\Debug\netcoreapp3.1\rabbitmq_1.AssemblyInfoInputs.cache
+C:\Users\tofu\Source\Repos\rabbitmq_1\obj\Debug\netcoreapp3.1\rabbitmq_1.AssemblyInfo.cs
+C:\Users\tofu\Source\Repos\rabbitmq_1\obj\Debug\netcoreapp3.1\rabbitmq_1.csproj.CoreCompileInputs.cache
+C:\Users\tofu\Source\Repos\rabbitmq_1\obj\Debug\netcoreapp3.1\rabbitmq_1.dll
+C:\Users\tofu\Source\Repos\rabbitmq_1\obj\Debug\netcoreapp3.1\rabbitmq_1.pdb

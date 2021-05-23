@@ -1,0 +1,9 @@
+C:\Users\tofu\Source\Repos\Rabbitmq message\bin\Debug\netcoreapp3.1\Rabbitmq message.deps.json
+C:\Users\tofu\Source\Repos\Rabbitmq message\bin\Debug\netcoreapp3.1\Rabbitmq message.dll
+C:\Users\tofu\Source\Repos\Rabbitmq message\bin\Debug\netcoreapp3.1\Rabbitmq message.pdb
+C:\Users\tofu\Source\Repos\Rabbitmq message\obj\Debug\netcoreapp3.1\Rabbitmq message.csprojAssemblyReference.cache
+C:\Users\tofu\Source\Repos\Rabbitmq message\obj\Debug\netcoreapp3.1\Rabbitmq message.AssemblyInfoInputs.cache
+C:\Users\tofu\Source\Repos\Rabbitmq message\obj\Debug\netcoreapp3.1\Rabbitmq message.AssemblyInfo.cs
+C:\Users\tofu\Source\Repos\Rabbitmq message\obj\Debug\netcoreapp3.1\Rabbitmq message.csproj.CoreCompileInputs.cache
+C:\Users\tofu\Source\Repos\Rabbitmq message\obj\Debug\netcoreapp3.1\Rabbitmq message.dll
+C:\Users\tofu\Source\Repos\Rabbitmq message\obj\Debug\netcoreapp3.1\Rabbitmq message.pdb

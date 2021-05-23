@@ -1,0 +1,20 @@
+﻿'dynamic_inputs.exe' (Win32): Loaded 'C:\Users\tofu\Source\Repos\dynamic_inputs\Debug\dynamic_inputs.exe'. Symbols loaded.
+'dynamic_inputs.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ntdll.dll'. 
+'dynamic_inputs.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel32.dll'. 
+'dynamic_inputs.exe' (Win32): Loaded 'C:\Windows\SysWOW64\KernelBase.dll'. 
+'dynamic_inputs.exe' (Win32): Loaded 'C:\Windows\SysWOW64\apphelp.dll'. 
+'dynamic_inputs.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcp140d.dll'. 
+'dynamic_inputs.exe' (Win32): Loaded 'C:\Windows\SysWOW64\vcruntime140d.dll'. 
+'dynamic_inputs.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ucrtbased.dll'. 
+The thread 0x3c4c has exited with code 0 (0x0).
+'dynamic_inputs.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel.appcore.dll'. 
+'dynamic_inputs.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcrt.dll'. 
+'dynamic_inputs.exe' (Win32): Loaded 'C:\Windows\SysWOW64\rpcrt4.dll'. 
+'dynamic_inputs.exe' (Win32): Loaded 'C:\Windows\SysWOW64\sspicli.dll'. 
+'dynamic_inputs.exe' (Win32): Loaded 'C:\Windows\SysWOW64\cryptbase.dll'. 
+'dynamic_inputs.exe' (Win32): Loaded 'C:\Windows\SysWOW64\bcryptprimitives.dll'. 
+'dynamic_inputs.exe' (Win32): Loaded 'C:\Windows\SysWOW64\sechost.dll'. 
+The thread 0x3550 has exited with code 0 (0x0).
+The thread 0x15ac has exited with code 0 (0x0).
+The thread 0x1110 has exited with code 0 (0x0).
+The program '[11448] dynamic_inputs.exe' has exited with code 0 (0x0).
